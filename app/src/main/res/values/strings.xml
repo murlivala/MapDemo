@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">MapDemo</string>
+    <string name="tv_train">Train</string>
+    <string name="tv_car">Car</string>
+    <string name="nav">Navigate</string>
+    <string name="mode">Mode of Transport:</string>
+    <string name="network_error">Please check your Internet.</string>
+    <string name="action_refresh">Refresh</string>
+
+</resources>
